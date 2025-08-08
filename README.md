@@ -28,3 +28,27 @@ A GUI-based Grade Calculator using *Java Swing*. The user enters the number of s
 3. Enter number of subjects and their marks
 4. Click Calculate Grade
 
+# 🔐 CodSoft Java Internship
+
+## 💼 Task 3: ATM Interface
+
+This is a *console-based ATM simulation* developed in Java as part of the *CodSoft Java Development Internship*.
+
+## 📌 Description
+
+The program simulates an ATM interface that allows a user to:
+
+- ✅ Withdraw money
+- ✅ Deposit money
+- ✅ Check balance
+
+## 🚀 How to Run the Program
+
+### 💻 Using Eclipse:
+
+1. Open Eclipse IDE
+2. Create a new Java project: ATMInterface
+3. Create a class: ATMInterface
+4. Paste the code from ![Output](ATMInterface.java)
+5. Run the program
+
