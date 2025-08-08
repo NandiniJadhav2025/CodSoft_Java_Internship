@@ -23,7 +23,7 @@ A GUI-based Grade Calculator using *Java Swing*. The user enters the number of s
 - Swing GUI
 
 ## 🚀 How to Run
-1. Copy the code from (GradeCalculatorGUI.java)
+1. Copy the code from ![Output](GradeCalculatorGUI.java)
 2. Run it in any IDE like Eclipse or IntelliJ
 3. Enter number of subjects and their marks
 4. Click Calculate Grade
