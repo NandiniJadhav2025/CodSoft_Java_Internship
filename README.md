@@ -52,3 +52,21 @@ The program simulates an ATM interface that allows a user to:
 4. Paste the code from ![Output](ATMInterface.java)
 5. Run the program
 
+💱 Currency Converter (Easy)
+A simple Java Works in *Eclipse IDE* program to convert between USD, INR, and EUR using fixed rates.
+Select currencies once, then convert multiple amounts without restarting.
+
+🚀 Features
+USD, INR, EUR support
+Select once, convert many times
+Exit with exit
+
+📌 Example
+![Output](CurrencyConvert.java)
+Enter base currency: USD  
+Enter target currency: INR  
+Exchange Rate: 1 USD = 83.0 INR  
+Enter amount: 5  
+5.00 USD = 415.00 INR
+
+
