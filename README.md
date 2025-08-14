@@ -70,6 +70,7 @@ A simple *Java Currency Converter* that:
 - Eclipse IDE
 
 ## 📌 Example Output
+![Output](CurrentCurrency.java)
 Enter base currency (USD, INR, EUR): USD  
 Enter target currency (USD, INR, EUR): INR  
 Exchange Rate: 1 USD = 83.0 INR  
