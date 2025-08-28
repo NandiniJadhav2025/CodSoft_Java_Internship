@@ -99,7 +99,7 @@ Eclipse IDE
 1. Clone the repository.
 2. Open in Eclipse IDE.
 3. Run StudentManagementGUI.java.
-![Output](StudentManagementSystem.java)
+![Output](StudentManagementSystemGUI.java)
 
 
 
