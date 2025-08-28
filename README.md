@@ -78,6 +78,29 @@ Exchange Rate: 1 USD = 83.0 INR
 Enter amount in USD (type 'exit' to quit): 5  
 5.00 USD = 415.00 INR  
 
+🎓 Task 5 - Student Management System
+
+This project is part of my CodSoft Java Development Internship.
+It is a Java Swing-based Student Management System that allows users to easily manage student records.
+
+✨ Features
+➕ Add Student
+✏ Edit Student
+❌ Delete Student
+🔍 Search Student
+📋 Display All Students
+🚪 Exit Application
+
+🛠 Technologies
+Java (Swing, File Handling)
+Eclipse IDE
+
+🚀 How to Run
+1. Clone the repository.
+2. Open in Eclipse IDE.
+3. Run StudentManagementGUI.java.
+![Output](StudentManagementSystem.java)
+
 
 
 
